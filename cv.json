@@ -1,0 +1,279 @@
+{
+  "basics": {
+    "name": "Jazziel Abdiel Briones Herrera",
+    "label": "Full Stack Developer con más de 3 años de experiencia",
+    "image": "https://media.licdn.com/dms/image/D5603AQEYj5iUoGVBTA/profile-displayphoto-shrink_800_800/0/1696387531582?e=1714608000&v=beta&t=gQEiiqNzNWsK1-nqvZ7g0ag0bur1I5AgpUO-x9yJN34",
+    "email": "jazzielbh@gmail.com",
+    "phone": "+52 6122215617",
+    "url": "https://midu.dev",
+    "summary": "+3 años de experiencia como Desarrollador Web. Actualmente estudiando sobre las tecnlogias innovadoras. Vivo en La Paz, BCS. He trabajado en diferentes entornos: desde frameworks como laravel, Vue.js y lenguajes puros como java, php, javaScript y Python. Sobre Base de datos relacionales Mysql",
+    "location": {
+      "address": "",
+      "postalCode": "23083",
+      "city": "La Paz",
+      "countryCode": "ES",
+      "region": "México"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Jazziel Briones",
+        "url": "https://www.linkedin.com/in/jazziel-briones-378705266/"
+      },
+      {
+        "network": "X",
+        "username": "Jazziel Briones",
+        "url": "https://x.com/jazzielbriones"
+      },
+      {
+        "network": "GitHub",
+        "username": "midudev",
+        "url": "https://github.com/JazzielGod"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Jazziel Briones",
+      "position": "Estudiante de Ingieneria en Desarrollo Software",
+      "url": "https://twitch.tv/midudev",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Adevinta",
+      "position": "Lead Frontend Architect",
+      "url": "https://twitch.tv/midudev",
+      "startDate": "2016-06-01",
+      "endDate": "2022-09-01",
+      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Hubii",
+      "position": "Senior FrontEnd Developer",
+      "startDate": "2011-03-01",
+      "endDate": "2016-05-01",
+      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "Universidad Autonoma de Baja California Sur",
+    "url": "https://uabcs.mx/bienvenida",
+    "area": "Ingeniero en Desarrollo Software",
+    "studyType": "Bachelor",
+    "startDate": "2019-06-07",
+    "endDate": "2024-02-15",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Intermediate",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Basic",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Basic",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Basic",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Basic",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermediate",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Basic",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Basic",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Basic"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "ApiMalecon",
+      "isActive": true,
+      "description": "Api para el malecon de La Paz, BCS. Desarrollada en Laravel",
+      "highlights": [
+        "Api",
+        "Laravel"
+      ],
+      "url": "#####",
+      "github": "https://github.com/JazzielGod/ApiMalecon"
+    },
+    {
+      "name": "Cofece-Concurso",
+      "isActive": false,
+      "description": "Mejorar el diseño y velocidad de la pagina original, Desarrollado con Astro.",
+      "highlights": [
+        "Astro",
+        "Tailwind",
+        "TypeScript"
+      ],
+      "url": "https://cofece-concursossos.vercel.app/pleno",
+      "github": "https://github.com/martinkztro/cofece-concurso"
+    },
+    {
+      "name": "Web restaurante",
+      "isActive": false,
+      "description": "Pagina sobre un restaurante de comida rapida de sushi",
+      "highlights": [
+        "Laravel",
+        "React",
+        "Tailwind"
+      ],
+      "url": "######",
+      "github": "https://github.com/JonathanDSoto/APIIDSTV-PF-E1"
+    },
+    {
+      "name": "Proyecto Laberinto",
+      "isActive": false,
+      "description": "Juego del laberinto de metal slug, desarrollado en JavaScript puro metodo canvas",
+      "highlights": [
+        "Proyecto Final 7to semestre",
+        "JavaScript puro"
+      ],
+      "url": "https://jazzielgod.github.io/",
+      "github": "https://github.com/midudev/codi.link"
+    },
+    {
+      "name": "Api restaurante",
+      "isActive": false,
+      "description": "Api completo de un restaurante, con autenticacion, roles, productos, categorias, etc.",
+      "highlights": [
+        "Laravel"
+      ],
+      "url": "########",
+      "github": "https://github.com/JazzielGod/restaurante-api"
+    },
+    {
+      "name": "Fielder Community",
+      "description": "Gestor de campos de futbol, con reservaciones, vistas, etc.",
+      "highlights": [
+        "Php",
+        "JavaScript"
+      ],
+      "url": "https://fieldercommuniti.000webhostapp.com/pilot-fielder_community/index.html",
+      "github": "######3"
+    }
+  ]
+}
