@@ -6,7 +6,7 @@
     "email": "jazzielbh@gmail.com",
     "phone": "+52 6122215617",
     "url": "https://midu.dev",
-    "summary": "+3 años de experiencia como Desarrollador Web. Actualmente estudiando sobre las tecnlogias innovadoras. Vivo en La Paz, BCS. He trabajado en diferentes entornos: desde frameworks como laravel, Vue.js y lenguajes puros como java, php, javaScript y Python. Sobre Base de datos relacionales Mysql",
+    "summary": "Apasionado desarrollador de software con experiencia en algunos lenguajes de programación: Mi enfoque se ha centrado en el desarrollo de proyectos tanto en el Front-End como en el Back-End, colaborando en la creación de interfaces intuitivas y funcionales.",
     "location": {
       "address": "",
       "postalCode": "23083",
@@ -131,17 +131,10 @@
       ]
     },
     {
-      "name": "Tailwind",
+      "name": "Bootstrap",
       "level": "Basic",
       "keywords": [
         "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Basic",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
       ]
     },
     {
@@ -173,17 +166,24 @@
       ]
     },
     {
-      "name": "Next.js",
-      "level": "Basic",
+     "name": "Laravel",
+      "level": "Intermediate",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Framework", "Backend", "PHP", "Desarrollo Web"
+      ] 
+    },
+    {
+      "name": "Php",
+      "level": "Intermediate",
+      "keywords": [
+        "Backend", "Desarrollo Web", "Laravel"
       ]
     },
     {
-      "name": "React",
-      "level": "Basic",
+      "name": "Java",
+      "level": "Intermediate",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Backend", "Android"
       ]
     }
   ],
@@ -214,7 +214,7 @@
       "isActive": true,
       "description": "Api para el malecon de La Paz, BCS. Desarrollada en Laravel",
       "highlights": [
-        "Api",
+        "Php",
         "Laravel"
       ],
       "url": "#####",
@@ -273,7 +273,7 @@
         "JavaScript"
       ],
       "url": "https://fieldercommuniti.000webhostapp.com/pilot-fielder_community/index.html",
-      "github": "######3"
+      "github": "######"
     }
   ]
 }
