@@ -235,13 +235,13 @@
     {
       "name": "Web restaurante",
       "isActive": false,
-      "description": "Pagina sobre un restaurante de comida rapida de sushi",
+      "description": "Pagina administrativa de un restaurante de comida rapida de sushi",
       "highlights": [
         "Laravel",
         "React",
         "Tailwind"
       ],
-      "url": "######",
+      "url": "https://deploy-sushi-restaurant.vercel.app/",
       "github": "https://github.com/JonathanDSoto/APIIDSTV-PF-E1"
     },
     {
@@ -267,7 +267,7 @@
     },
     {
       "name": "Fielder Community",
-      "description": "Gestor de campos de futbol, con reservaciones, vistas, etc.",
+      "description": "Gestor de campos de futbol, con reservaciones, vistas, etc. tanto administrativa como de usuario.",
       "highlights": [
         "Php",
         "JavaScript"
